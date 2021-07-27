@@ -1,5 +1,5 @@
 import React from 'react'
-import Me from "/Users/grant/Development/PersonalSite/personal_site/src/circle-cropped.png"
+import Me from "./circle-cropped.png"
 
 function Landing() {
     return (
